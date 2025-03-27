@@ -117,7 +117,7 @@
 			<p>years old.</p>
 		</div>
 		<div>
-			<WordsFadeIn words="Software Engineer - Web Developer"></WordsFadeIn>
+			<WordsFadeIn words="Software Engineer - Front-end Web Developer"></WordsFadeIn>
 		</div>
 		<div class="max-h-4 min-h-4">
 			<WordRotate
